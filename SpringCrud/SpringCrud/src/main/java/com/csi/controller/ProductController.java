@@ -49,7 +49,8 @@ public class ProductController {
 
         productServiceImpl.deleteData(productId);
 
-        return " Data  Successfully";
+        return " Data Deleted Successfully";
     }
 //// onkar
+    //////Thank You Onkar
 }
