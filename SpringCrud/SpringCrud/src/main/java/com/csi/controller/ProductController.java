@@ -49,7 +49,7 @@ public class ProductController {
 
         productServiceImpl.deleteData(productId);
 
-        return " Data Deleted Successfully";
+        return " Data  Successfully";
     }
-
+//// onkar
 }
